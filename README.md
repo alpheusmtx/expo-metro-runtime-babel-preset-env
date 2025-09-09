@@ -1,3 +1,3 @@
 # Expo Metro Runtime Babel Preset Env
 
-This repository is used to reproduce the unexpected imcompatibility issue between `@expo/metro-runtime` and `@babel/preset-env`.
+This repository is used to reproduce the imcompatibility between `@expo/metro-runtime` and `@babel/preset-env`.
